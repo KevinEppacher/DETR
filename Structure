@@ -1,0 +1,51 @@
+1 Introduction:
+
+2 SOTA:
+	Literature review
+	Scientific Contribution
+
+3 Methods:
+	3.1 Dataset:
+		Source
+		Image size
+		Variation
+		Setting
+		Preprocessing
+
+	3.2 Model Details:
+		3.2.1 DETR:
+			Architecture Diagram
+			Implementation
+			Training Preprocessing
+		
+		3.2.2 YOLOv7:
+			...
+		
+	3.3 Evaluation Metrics:
+		how to evaluate models ( Precision-Recall-Curves and ROC-Curves )
+
+4. Results:
+	4.1 Qualitative Results:
+		4.1.1 DETR:
+			Loss Curve Figure
+			Performance Figures with Precision-Recall-Curves and ROC-Curves (as descirbed in Evaluation Metrics )
+
+		4.1.2 YOLOv7:
+			...
+
+		Table representing Performance of both models
+
+
+	4.2 Qualitative Results:
+		Images with DETR
+		Images with YOLOv7
+		Images with both models
+
+5 Discussion:
+	Strenght and weakness of both models
+	(keine Ahnung, sonst noch Ideen?)
+
+6 Summary and Outlook:
+	Summarize YOLOv7 and DETR
+	Mention Limitations and any form of Bias
+	Outlook for improvements
